@@ -7,4 +7,4 @@ Essa jornada me trouxe um crescimento significativo nos meus estudos e me deixou
 
 # Certificado
 
-Você pode acessar o [Certificado aqui](ScreenSound/certificado/certificado.PNG)
+Você pode acessar o [Certificado aqui](Nodos Js/certificado/certificado.PNG)
