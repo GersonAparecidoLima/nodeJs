@@ -7,4 +7,5 @@ Essa jornada me trouxe um crescimento significativo nos meus estudos e me deixou
 
 # Certificado
 
-Você pode acessar o [Certificado aqui](nodeJs/tree/master/certificado/certificado.PNG)
+Você pode acessar o [Certificado aqui] ![Certificado](https://github.com/GersonAparecidoLima/nodeJs/raw/master/certificado/certificado.JPG)
+
